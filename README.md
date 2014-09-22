@@ -1,1 +1,1 @@
-My personal homepage. Currently a work in progress.
+My personal homepage hosted on Github pages with Jekyll. Currently a work in progress.
