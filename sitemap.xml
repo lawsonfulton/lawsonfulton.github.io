@@ -3,17 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://lawsonfulton.com/categories/</loc>
+    <loc>https://www.lawsonfulton.com/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/authors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://lawsonfulton.com/</loc>
+    <loc>https://www.lawsonfulton.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://lawsonfulton.com/tags/</loc>
+    <loc>https://www.lawsonfulton.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/publication_types/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/tags/</loc>
     <priority>0</priority>
   </url>
   

@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Lawson Fulton</title>
-    <link>http://lawsonfulton.com/tags/</link>
+    <link>https://www.lawsonfulton.com/tags/</link>
     <description>Recent content in Tags on Lawson Fulton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://lawsonfulton.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.lawsonfulton.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
