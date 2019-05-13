@@ -3,6 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.lawsonfulton.com/widget_bak/hero/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/widget_bak/skills/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/widget_bak/experience/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/widget_bak/accomplishments/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/widget_bak/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/widget_bak/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/widget_bak/people/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/widget_bak/talks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/widget_bak/featured/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/widget_bak/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/widget_bak/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/widget_bak/contact/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.lawsonfulton.com/authors/admin/</loc>
   </url>
   
@@ -40,6 +88,11 @@
   
   <url>
     <loc>https://www.lawsonfulton.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/widget_bak/</loc>
     <priority>0</priority>
   </url>
   
