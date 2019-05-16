@@ -35,10 +35,6 @@
   </url>
   
   <url>
-    <loc>https://www.lawsonfulton.com/widget_bak/publications/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.lawsonfulton.com/widget_bak/tags/</loc>
   </url>
   
@@ -47,21 +43,63 @@
   </url>
   
   <url>
-    <loc>https://www.lawsonfulton.com/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.lawsonfulton.com/authors/</loc>
+    <loc>https://www.lawsonfulton.com/authors/alec-jacobson/</loc>
+    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.lawsonfulton.com/categories/</loc>
+    <loc>https://www.lawsonfulton.com/authors/</loc>
+    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/authors/david-duvenaud/</loc>
+    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/authors/david-i.w.-levin/</loc>
+    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/publication/latent-space-dynamics/</loc>
+    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/authors/lawson-fulton/</loc>
+    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.lawsonfulton.com/</loc>
+    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/publication/</loc>
+    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/authors/vismay-modi/</loc>
+    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/categories/</loc>
     <priority>0</priority>
   </url>
   
@@ -72,10 +110,6 @@
   <url>
     <loc>https://www.lawsonfulton.com/publication_types/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.lawsonfulton.com/publication/</loc>
   </url>
   
   <url>
