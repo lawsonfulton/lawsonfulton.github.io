@@ -19,10 +19,6 @@
   </url>
   
   <url>
-    <loc>https://www.lawsonfulton.com/widget_bak/projects/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.lawsonfulton.com/widget_bak/people/</loc>
   </url>
   
@@ -39,7 +35,20 @@
   </url>
   
   <url>
-    <loc>https://www.lawsonfulton.com/widget_bak/contact/</loc>
+    <loc>https://www.lawsonfulton.com/</loc>
+    <lastmod>2019-05-16T21:55:20-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/project/</loc>
+    <lastmod>2019-05-16T21:55:20-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/project/yacray/</loc>
+    <lastmod>2019-05-16T21:55:20-04:00</lastmod>
   </url>
   
   <url>
@@ -78,12 +87,6 @@
   </url>
   
   <url>
-    <loc>https://www.lawsonfulton.com/</loc>
-    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.lawsonfulton.com/publication/</loc>
     <lastmod>2019-05-06T00:00:00+00:00</lastmod>
   </url>
@@ -92,6 +95,21 @@
     <loc>https://www.lawsonfulton.com/authors/vismay-modi/</loc>
     <lastmod>2019-05-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/project/noize/</loc>
+    <lastmod>2016-05-16T22:21:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/project/fractalspirographs/</loc>
+    <lastmod>2014-12-16T22:22:22-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/project/geneticfilter/</loc>
+    <lastmod>2014-05-16T22:18:59-04:00</lastmod>
   </url>
   
   <url>

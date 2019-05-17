@@ -6,7 +6,7 @@
     <description>Recent content on Lawson Fulton</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2019 21:55:20 -0400</lastBuildDate>
     
 	    <atom:link href="https://www.lawsonfulton.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -53,15 +53,6 @@
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://www.lawsonfulton.com/widget_bak/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.lawsonfulton.com/widget_bak/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>People</title>
       <link>https://www.lawsonfulton.com/widget_bak/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -98,11 +89,11 @@
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://www.lawsonfulton.com/widget_bak/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>YacRay</title>
+      <link>https://www.lawsonfulton.com/project/yacray/</link>
+      <pubDate>Thu, 16 May 2019 21:55:20 -0400</pubDate>
       
-      <guid>https://www.lawsonfulton.com/widget_bak/contact/</guid>
+      <guid>https://www.lawsonfulton.com/project/yacray/</guid>
       <description></description>
     </item>
     
@@ -128,6 +119,33 @@
 
 &lt;p&gt;This work is funded in part by NSERC Discovery Grants (RGPIN–2017–05235, RGPIN–2017–05524, RGPAS–2017–507938, RGPAS–2017–507909), Connaught Funds (NR2016–17), the Canada Research Chairs Program, the Fields Institute, and gifts by Adobe Systems Inc, Autodesk Inc, and MESH Inc. We also thank Sarah Kushner for help with figure creation.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Noize</title>
+      <link>https://www.lawsonfulton.com/project/noize/</link>
+      <pubDate>Mon, 16 May 2016 22:21:03 -0400</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/project/noize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fractal Epicycles</title>
+      <link>https://www.lawsonfulton.com/project/fractalspirographs/</link>
+      <pubDate>Tue, 16 Dec 2014 22:22:22 -0400</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/project/fractalspirographs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic Image Optimization</title>
+      <link>https://www.lawsonfulton.com/project/geneticfilter/</link>
+      <pubDate>Fri, 16 May 2014 22:18:59 -0400</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/project/geneticfilter/</guid>
+      <description></description>
     </item>
     
   </channel>
