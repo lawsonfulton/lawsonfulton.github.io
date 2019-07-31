@@ -15,15 +15,15 @@
   </url>
   
   <url>
-    <loc>https://www.lawsonfulton.com/widget_bak/posts/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.lawsonfulton.com/widget_bak/people/</loc>
   </url>
   
   <url>
     <loc>https://www.lawsonfulton.com/widget_bak/talks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/widget_bak/experience/</loc>
   </url>
   
   <url>
@@ -35,7 +35,29 @@
   </url>
   
   <url>
+    <loc>https://www.lawsonfulton.com/poster/autodef/</loc>
+    <lastmod>2019-05-16T21:55:20-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/project/autodef/</loc>
+    <lastmod>2019-05-16T21:55:20-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.lawsonfulton.com/</loc>
+    <lastmod>2019-05-16T21:55:20-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/open-source/</loc>
+    <lastmod>2019-05-16T21:55:20-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/poster/</loc>
     <lastmod>2019-05-16T21:55:20-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -47,8 +69,37 @@
   </url>
   
   <url>
+    <loc>https://www.lawsonfulton.com/tags/</loc>
+    <lastmod>2019-05-16T21:55:20-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.lawsonfulton.com/project/yacray/</loc>
     <lastmod>2019-05-16T21:55:20-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/open-source/libigl/</loc>
+    <lastmod>2019-05-16T21:55:20-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/tags/machine-learning/</loc>
+    <lastmod>2019-05-16T21:55:20-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/tags/old/</loc>
+    <lastmod>2019-05-16T21:55:20-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/tags/simulation/</loc>
+    <lastmod>2019-05-16T21:55:20-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -98,6 +149,36 @@
   </url>
   
   <url>
+    <loc>https://www.lawsonfulton.com/about/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/code/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/creative/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/research/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/blog/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lawsonfulton.com/cv/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.lawsonfulton.com/project/noize/</loc>
     <lastmod>2016-05-16T22:21:03-04:00</lastmod>
   </url>
@@ -132,11 +213,6 @@
   
   <url>
     <loc>https://www.lawsonfulton.com/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.lawsonfulton.com/tags/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
