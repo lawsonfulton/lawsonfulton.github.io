@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lawson Fulton</title>
+    <link>https://www.lawsonfulton.com/</link>
+    <description>Recent content on Lawson Fulton</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 May 2019 21:55:20 -0400</lastBuildDate>
+    
+	    <atom:link href="https://www.lawsonfulton.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic</title>
+      <link>https://www.lawsonfulton.com/widget_bak/hero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/widget_bak/hero/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Build &lt;strong&gt;Anything&lt;/strong&gt; with Widgets&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#34;text-shadow: none;&#34;&gt;&lt;a class=&#34;github-button&#34; href=&#34;https://github.com/gcushen/hugo-academic&#34; data-icon=&#34;octicon-star&#34; data-size=&#34;large&#34; data-show-count=&#34;true&#34; aria-label=&#34;Star this on GitHub&#34;&gt;Star&lt;/a&gt;&lt;script async defer src=&#34;https://buttons.github.io/buttons.js&#34;&gt;&lt;/script&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://www.lawsonfulton.com/widget_bak/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/widget_bak/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>https://www.lawsonfulton.com/widget_bak/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/widget_bak/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://www.lawsonfulton.com/widget_bak/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/widget_bak/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://www.lawsonfulton.com/widget_bak/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/widget_bak/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://www.lawsonfulton.com/widget_bak/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/widget_bak/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featured Publications</title>
+      <link>https://www.lawsonfulton.com/widget_bak/featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/widget_bak/featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Popular Topics</title>
+      <link>https://www.lawsonfulton.com/widget_bak/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/widget_bak/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AutoDef</title>
+      <link>https://www.lawsonfulton.com/poster/autodef/</link>
+      <pubDate>Thu, 16 May 2019 21:55:20 -0400</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/poster/autodef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AutoDef</title>
+      <link>https://www.lawsonfulton.com/project/autodef/</link>
+      <pubDate>Thu, 16 May 2019 21:55:20 -0400</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/project/autodef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YacRay</title>
+      <link>https://www.lawsonfulton.com/project/yacray/</link>
+      <pubDate>Thu, 16 May 2019 21:55:20 -0400</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/project/yacray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>libigl</title>
+      <link>https://www.lawsonfulton.com/open-source/libigl/</link>
+      <pubDate>Thu, 16 May 2019 21:55:20 -0400</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/open-source/libigl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent-space Dynamics for Reduced Deformable Simulation</title>
+      <link>https://www.lawsonfulton.com/publication/latent-space-dynamics/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/publication/latent-space-dynamics/</guid>
+      <description>
+
+&lt;h3 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;@article{Fulton:LSD:2018,
+  title ={Latent-space Dynamics for Reduced Deformable Simulation},
+  author = {Lawson Fulton and Vismay Modi and David Duvenaud and David I. W. Levin and Alec Jacobson},
+  year = {2019},
+  journal = {Computer Graphics Forum}
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+
+&lt;p&gt;This work is funded in part by NSERC Discovery Grants (RGPIN–2017–05235, RGPIN–2017–05524, RGPAS–2017–507938, RGPAS–2017–507909), Connaught Funds (NR2016–17), the Canada Research Chairs Program, the Fields Institute, and gifts by Adobe Systems Inc, Autodesk Inc, and MESH Inc. We also thank Sarah Kushner for help with figure creation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.lawsonfulton.com/about/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.lawsonfulton.com/code/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.lawsonfulton.com/creative/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/creative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.lawsonfulton.com/research/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://www.lawsonfulton.com/blog/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Landing Page</title>
+      <link>https://www.lawsonfulton.com/cv/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noize</title>
+      <link>https://www.lawsonfulton.com/project/noize/</link>
+      <pubDate>Mon, 16 May 2016 22:21:03 -0400</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/project/noize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fractal Epicycles</title>
+      <link>https://www.lawsonfulton.com/project/fractalspirographs/</link>
+      <pubDate>Tue, 16 Dec 2014 22:22:22 -0400</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/project/fractalspirographs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic Image Optimization</title>
+      <link>https://www.lawsonfulton.com/project/geneticfilter/</link>
+      <pubDate>Fri, 16 May 2014 22:18:59 -0400</pubDate>
+      
+      <guid>https://www.lawsonfulton.com/project/geneticfilter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
